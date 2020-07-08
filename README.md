@@ -35,7 +35,11 @@ This is the official implementation for Unsupervised Multi-Target Domain Adaptat
         python experiments/exp_kd_multi_target_da_grl_cst_fac.py
 - For other experiments you can edit `exp_kd_multi_target_da_grl_cst_fac.py` to change our hyper-parameters
 
-###Credits
+### Evaluation
+
+- Coming soon.
+
+### Credits
 
 We used some of the code from:
   - https://github.com/thuml/CDAN: to load ImageClef dataset
