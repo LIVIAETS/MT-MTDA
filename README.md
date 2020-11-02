@@ -1,4 +1,4 @@
-This is the official implementation for [Unsupervised Multi-Target Domain Adaptation ThroughKnowledge Distillation](https://arxiv.org/abs/2007.07077)
+This is the official implementation for WACV 2021 paper of [Unsupervised Multi-Target Domain Adaptation ThroughKnowledge Distillation](https://arxiv.org/abs/2007.07077),
 
 ### Requirements
 
