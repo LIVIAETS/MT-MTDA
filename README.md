@@ -2,7 +2,7 @@ This is the official implementation for WACV 2021 paper of [Unsupervised Multi-T
 
 ### Requirements
 
-- pytorch >= 1.4.0
+- pytorch <= 1.4.0
 - sacred (https://github.com/IDSIA/sacred)
 
 ### Datasets
